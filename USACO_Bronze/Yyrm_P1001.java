@@ -42,6 +42,7 @@ int main() {
     cin >> a >> b;
     cout << a + b << endl;
     return 0;
+    //作用:放在 `int main()` 的最后一行：告诉操作系统：程序正常结束，没有出错
 }
 */
 
